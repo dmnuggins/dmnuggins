@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**dmnuggins/dmnuggins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me 👋
 
 Here are some ideas to get you started:
+- 👋 Hi, I’m Dylan! Just an aspiring hacker trying to break into your computer...with permission of course. 🔎
+- 👀 I’m interested in breaking things and making something cool.
+- 🌱 I’m currently learning game development, cybersecurity, and web development.
+- 👾 Check out my profile on Try Hack Me @dmnuggins!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Certifications
+- [CompTIA Security+](https://www.credly.com/badges/2298031d-5a92-49a1-9070-d201c7f0d5c0/public_url)
+
+### Projects
+- [CTF Writeups](https://github.com/dmnuggins/Cloud-SOC)
+- [Cloud SOC](https://github.com/dmnuggins/CTF-Writeups)
+<!-- - 📫 How to reach me: ... -->
