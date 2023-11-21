@@ -1,4 +1,4 @@
-# About Me 👋
+# 👋About Me
 
 Here are some ideas to get you started:
 - 👋 Hi, I’m **Dylan**! Just an aspiring hacker trying to break into your computer...*with permission of course*. 🔎
@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning game development, cybersecurity, and web development.
 - 👾 Check out my profile on Try Hack Me [@dmnuggins](https://tryhackme.com/p/dmnuggins)!
 
-# Projects 💡
+# 💡Projects
 - [CTF Writeups](https://github.com/dmnuggins/CTF-Writeups)
 - [Cloud SOC](https://github.com/dmnuggins/Cloud-SOC)
 
-# Certifications 📜
+# 📜Certifications
 - [CompTIA Security+](https://www.credly.com/badges/2298031d-5a92-49a1-9070-d201c7f0d5c0/public_url)
