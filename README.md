@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 - 👾 Check out my profile on Try Hack Me [@dmnuggins](https://tryhackme.com/p/dmnuggins)!
 
 ## 💡Projects
-- [CTF Writeups](https://github.com/dmnuggins/CTF-Writeups)
-- [Cloud SOC](https://github.com/dmnuggins/Cloud-SOC)
 - [Active Directory HomeLab](https://github.com/dmnuggins/Active-Directory-HomeLab)
+- [Cloud SOC](https://github.com/dmnuggins/Cloud-SOC)
+- [CTF Writeups](https://github.com/dmnuggins/CTF-Writeups)
 
 ## 📜Certifications
 - [CompTIA Security+](https://www.credly.com/badges/2298031d-5a92-49a1-9070-d201c7f0d5c0/public_url)
